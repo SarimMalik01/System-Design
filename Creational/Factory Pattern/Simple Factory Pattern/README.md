@@ -40,6 +40,19 @@ Now:
 
 Object creation logic is centralized.
 
+## Conceptual Mapping
+
+<p align="center">
+  <img src="Mapping.png" width="600" />
+</p>
+
+Explanation of the diagram:
+
+- There is a single product hierarchy Product.
+- There is a factory which creates all the products.
+- Factory is already selected , the client selects which product to instantiate by passing arguments.
+
+
 Example Implementation
 - 1️ Product Interface
 ```
