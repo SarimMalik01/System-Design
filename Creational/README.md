@@ -1,6 +1,9 @@
 # Creational Design Patterns
 
-<img src="Creational.png" width="700" height="400"/>
+<p align="center">
+  <img src="Creational.png" width="700" height="900"/>
+</p>
+
 
 Creational Design Patterns focus on **object creation mechanisms**.  
 They abstract the instantiation process and help make systems:
