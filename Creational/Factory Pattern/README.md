@@ -51,4 +51,6 @@ Provide an interface for creating families of related or dependent objects witho
 - Can introduce significant complexity.
 - Not ideal when product families rarely change.
 
-  
+<p align="center">
+  <img src="Factory.png" width="600" height="400" />
+</p>
